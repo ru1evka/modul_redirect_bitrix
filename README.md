@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 Как установить модуль?
 
-1. Скачиваем архив с модулем с 
+1. Скачиваем архив с модулем с <br>
 GitHub https://github.com/ru1evka/modul_redirect_bitrix <br>
 или <br>
 Google Диск https://drive.google.com/file/d/10t4PUjhLTQ00avDyAlxPBr8OhiNaWei_/view?usp=sharing <br>
